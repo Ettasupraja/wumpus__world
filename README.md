@@ -157,5 +157,7 @@ Output:
 
 ![image](https://github.com/user-attachments/assets/26cdd858-54b2-4352-90dc-bdb20f3b5570)
 
+Result:
 
+Therefore, Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
 
